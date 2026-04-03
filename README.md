@@ -14,4 +14,4 @@ Tenho grande interesse em aprender na prática e estou aberto a colaborar como v
 🚀 Busco evoluir constantemente e acredito que compartilhar e construir junto é a melhor forma de crescer na área de tecnologia.
 
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tiowill-dev&show_icons=true)
+[![tiowill GitHub stats](https://github-readme-stats.vercel.app/api?username=tiowill-dev)](https://github.com/anuraghazra/github-readme-stats)
